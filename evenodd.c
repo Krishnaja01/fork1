@@ -1,4 +1,3 @@
-#even or ODD
 
 #include<stdio.h>
 
